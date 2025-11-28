@@ -3,7 +3,7 @@
 O Vulnera é uma plataforma web de diagnósticos de cibersegurança desenvolvida para identificar vulnerabilidades, avaliar riscos e fornecer recomendações práticas para aprimorar a segurança de aplicações, sistemas e redes.
 A ferramenta foi projetada como um ambiente simples, educativo e funcional, focado em ajudar estudantes, desenvolvedores e equipes técnicas a compreender pontos fracos e boas práticas de segurança.
 
-##Funcionalidades
+## Funcionalidades
 
 Scanner de vulnerabilidades (portas, serviços, servidores ou módulos específicos)
 
@@ -19,7 +19,7 @@ Sistema de usuários (opcional)
 
 Interface web moderna e intuitiva
 
-##Objetivo do Projeto
+## Objetivo do Projeto
 
 O objetivo do Vulnera é permitir que pessoas e equipes:
 
